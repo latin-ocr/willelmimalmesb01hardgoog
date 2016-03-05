@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./willelmimalmesb01hardgoog_0008.png"; bbox 0 0 3170 5054; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 620 4238 1083 4372">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 620 4238 1083 4372">
+     <span class='ocr_line' id='line_1_1' title="bbox 784 4238 914 4275; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 784 4238 914 4275; x_wconf 66' lang='lat' dir='ltr'><strong>Lomnou:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 620 4323 1083 4372; baseline 0 -14"><span class='ocrx_word' id='word_1_2' title='bbox 620 4324 742 4360; x_wconf 69' lang='lat' dir='ltr'>pulmo</span> <span class='ocrx_word' id='word_1_3' title='bbox 762 4325 797 4360; x_wconf 76' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 815 4324 927 4362; x_wconf 63' lang='lat' dir='ltr'><strong>smum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 948 4323 1083 4372; x_wconf 69' lang='lat' dir='ltr'><strong>amm,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 684 4403 1024 4464">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 684 4403 1024 4464">
+     <span class='ocr_line' id='line_1_3' title="bbox 684 4403 1024 4464; baseline 0 -14"><span class='ocrx_word' id='word_1_6' title='bbox 684 4405 775 4464; x_wconf 78' lang='lat' dir='ltr'>Bangor</span> <span class='ocrx_word' id='word_1_7' title='bbox 785 4404 872 4460; x_wconf 73' lang='lat' dir='ltr'><strong>Home,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 884 4403 943 4451; x_wconf 80' lang='lat' dir='ltr'>Shoe</span> <span class='ocrx_word' id='word_1_9' title='bbox 955 4405 1024 4451; x_wconf 73' lang='lat' dir='ltr'>Lnne.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1590 5054">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1590 5054">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1590 5054; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1590 5054; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
